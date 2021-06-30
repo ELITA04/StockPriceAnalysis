@@ -11,9 +11,9 @@ Volume traded basically gives information about the volatility of the stocks. If
 ### Plotting cumulative return
 The cumulative return tells you for every dollar invested on start date what is the return you'll get for end date.
 
-# Some Observations Made based on Google, Facebook, Apple and Microsoft Stock Prices (2018-2021)
+## Some Observations Made based on Google, Facebook, Apple and Microsoft Stock Prices (2018-2021)
 - The Daily **High** and **Close** prices for Google is much more higher compared to Microsoft, Apple and Facebook 
-- Apple showed the highest volatility and google shows the least compared to the others
+- Apple showed the highest volatility and Google shows the least compared to the others
 - For every dollar invested on Jan 2017, today (June 30) you would have made 
     - 2.2 dollars by investing in Google
     - 2 dollars by investing in Facebook
